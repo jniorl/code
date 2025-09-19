@@ -7,7 +7,7 @@ so this is year # xxxxxxxxxxxxxxxxxxxxxxx    and i mastered HTML/CSS/PHP/asp but
 # RED CARD = MENTAL HEALTH SERVICES / GREEN CARD = SPORTS/ATHLETES 
 # BLUE CARD = CHECK THE PUSSY FOR ANTS,SPIDERS OR RED ANTS.
 # ...  ESPECIALLY IF SHE IS ARGUING AND DOESN'T HAVE A BOYFRIEND, OR HUSBAND, A LESBIAN, OR FUCK FRIEND... ...
-
+# you asked me for a warehouse app... in french ?  loading... we work with the fujitsu logo at the grocery store as long as none of them is petty with the computers or codes, 1 racist = everyone relocates and loses 400 000$ ... and has to apply for welfare  or poverty check because >1 jealous person ...
 
 import random
 
